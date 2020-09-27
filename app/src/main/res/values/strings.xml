@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyDataSaver</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_text">Text</string>
+    <string name="button_insert">Insert</string>
+    <string name="save_button_label">Save</string>
+    <string name="load_button_label">Load</string>
+</resources>
